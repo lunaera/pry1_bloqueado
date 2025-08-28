@@ -1,0 +1,12 @@
+# Ignorar archivo específico
+config.txt
+
+# Ignorar todos los archivos .log
+#*.log
+
+# Ignorar carpeta completa
+#/temp/
+
+# Ignorar todo excepto un archivo
+#*.txt
+#!README.txt
