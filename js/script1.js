@@ -6,7 +6,4 @@ console.log(`el resultado de ${a} * ${b} es = ${a * b}`);
 
 console.log(`el resultado de ${a} * ${b} es = ${a * b}`);
 console.log(`el resultado de ${a} * ${b} es = ${a * b}`);
-console.log(`el resultado de ${a} * ${b} es = ${a * b}`);
-
-
-// yo soy un comentario antes de aplicar revert
+console.log(`el resultado de ${a} * ${b} es = ${a * b}`); 
