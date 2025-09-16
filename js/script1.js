@@ -22,3 +22,6 @@ console.log("safsads")
 // cambios ignorados
 
 // cambios para no subirse en main
+
+
+// soy un nuevo cambio desde mi rama lunaEra para fusionar a main principal
