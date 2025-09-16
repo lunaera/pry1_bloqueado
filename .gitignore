@@ -1,6 +1,6 @@
 # Ignorar archivo específico
 config.txt
-./js/scriptIgnorado.js
+js/script4.js
 # Ignorar todos los archivos .log
 #*.log
 
