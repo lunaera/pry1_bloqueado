@@ -23,13 +23,4 @@ console.log("safsads")
 
 // cambios para no subirse en main
 
-
-// soy un nuevo cambio desde mi rama lunaEra para fusionar a main principal
-
-// intentando nuevamente push en main
-
-// intentando nuevamente push en main
-
-// ultimos intentos de pull y request
-
-// haciendo cambios en main para ver si se bloquea
+// elimine varias lineas
