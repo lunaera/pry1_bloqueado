@@ -1,6 +1,6 @@
 # Ignorar archivo específico
 config.txt
-script1.js
+./js/script1.js
 # Ignorar todos los archivos .log
 #*.log
 
